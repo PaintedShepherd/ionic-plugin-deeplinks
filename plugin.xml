@@ -5,7 +5,7 @@
 	<description>Ionic Deeplink Plugin</description>
 	<license>MIT</license>
 	<keywords>Ionic,deeplinks,deeplinking</keywords>
-	<repo>https://github.com/ionic-team/ionic-plugin-deeplink.git</repo>
+	<repo>https://github.com/PaintedShepherd/ionic-plugin-deeplinks.git</repo>
 	<issue>https://github.com/ionic-team/ionic-plugin-deeplink/issues</issue>
 
 	<preference name="URL_SCHEME" />
